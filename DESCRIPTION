@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Website
+Title: personal website.
+Version: 0.0.1
+Imports: blogdown
+Remotes: rstudio/blogdown
