@@ -24,6 +24,6 @@ deploy:
     github_token: $GITHUB_TOKEN
     on:
         branch: website-source
-    local_dir: docs
+    local_dir: public
     repo: willdebras/willdebras.github.io
     target_branch: master
